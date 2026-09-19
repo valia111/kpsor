@@ -1,0 +1,6 @@
+{
+  "name": "ورقة عمل تفاعلية: مقارنة الكسور - الصف الرابع",
+  "description": "ورقة عمل رقمية تفاعلية لمقارنة الكسور للصف الرابع الابتدائي بإشراف المعلمة فاليا، متوافقة مع منهاج وزارة التربية والتعليم.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
